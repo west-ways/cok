@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://rajacuan-link-resmi-daftar-dan-login.pandapower.org/sitemap.txt
